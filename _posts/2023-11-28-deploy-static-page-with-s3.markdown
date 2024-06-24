@@ -14,7 +14,7 @@ categories: jekyll update
 
 - Trước tiên, bạn cần chuẩn bị nội dung cho trang web tĩnh của mình. Đây có thể là các tệp HTML, CSS, JavaScript, hình ảnh hoặc bất kỳ tài liệu nào bạn muốn hiển thị trên trang web của mình
 
-- Static website template source code: [https://github.com/thuc-pt/fe-zing-mp3](https://github.com/thuc-pt/fe-zing-mp3)
+- Static website template source code: [https://github.com/thuc-pt/fe-zing-mp3](https://github.com/thuc-pt/fe-zing-mp3){:target="_blank"}
 
 ## Bước 2: Tạo một S3 bucket
 

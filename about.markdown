@@ -22,8 +22,8 @@ permalink: /about/
 
 🙋‍♂️ 20-01-1998
 
-❤️ [Facebook](https://www.facebook.com/profile.php?id=100012298714802)
+❤️ [Facebook](https://www.facebook.com/profile.php?id=100012298714802){:target="_blank"}
 
-❤️ [Linkedin](https://www.linkedin.com/in/thuc-phan-t-b01594246/)
+❤️ [Linkedin](https://www.linkedin.com/in/thuc-phan-t-b01594246/){:target="_blank"}
 
 🤝 Hi! I'm a Ruby On Rails developer

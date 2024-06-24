@@ -110,7 +110,7 @@ sample_lambda = ->(x) { puts x }
 
 - Còn rất nhiều method hữu ích dành cho proc và lambda, bạn có thể tham khảo trực tiếp trên docs của Ruby
 
-- [https://ruby-doc.org/3.1.2/Proc.html](https://ruby-doc.org/3.1.2/Proc.html)
+- [https://ruby-doc.org/3.1.2/Proc.html](https://ruby-doc.org/3.1.2/Proc.html){:target="_blank"}
 
 ## 5. Lời kết
 
